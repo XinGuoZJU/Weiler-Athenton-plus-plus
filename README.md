@@ -1,6 +1,8 @@
 # Weiler-Athenton-plus-plus
 Weiler Athenton++: An improved Algorithm of the Weiler Athenton
 
+
+## Introduction
 This paper proposes an improved algorithm of the Weiler Atherton algorithm: Weiler Athertion++.
 
 
@@ -13,7 +15,7 @@ If you find our work helpful, feel free to give us a cite.
   title={Weiler Athenton++: An improved Algorithm of the Weiler Athenton}, 
   author={Guo, Xin},
   publisher={GitHub repository},
-  url={https://github.com/remyxai/VQASynth/tree/main},
+  url={https://github.com/XinGuoZJU/Weiler-Athenton-plus-plus/tree/main},
   year={2023}
 }
 ```
